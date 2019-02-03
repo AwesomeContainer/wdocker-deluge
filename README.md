@@ -1,7 +1,9 @@
 [![Build Status](https://dev.azure.com/AwesomeContainer/AzurePipeline/_apis/build/status/deluge/AzurePipeline-wdocker-deluge-dev?branchName=dev)](https://dev.azure.com/AwesomeContainer/AzurePipeline/_build/latest?definitionId=4&branchName=dev)
 
 # wdocker-deluge
-Windows Docker container: Deluge
+Windows Docker container: Deluge.
+
+Provided as-is. I do not own the software used in this container nor do I support it. If there is an issue with the container, please open up an issue on GitHub.
 
 ## Introduction
 This is a Windows container, built using Docker.  In order to use this container, you have to be running Windows 10 1809 or Window Server 1809 and a recent copy of Docker up and running. 
