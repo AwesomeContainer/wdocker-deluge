@@ -4,7 +4,7 @@
 
 FROM mcr.microsoft.com/windows/servercore:1809
 
-LABEL Description="Deluge" Vendor="Deluge" Version="1.3.13-win32-py2.7-0"
+LABEL Description="Deluge" Vendor="Deluge" Version="1.3.15-win32-py2.7"
 LABEL maintainer="AwesomeContainer"
 
 EXPOSE 8112
