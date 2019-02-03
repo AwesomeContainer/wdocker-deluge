@@ -19,4 +19,4 @@ You can update this container using docker-compose:
 
 If you don't want to use docker-compose, you can run this container directly from Docker Hub using Docker.exe:
 
-  `docker run -d -p 80:80 --name Deluge -v C:\DockerData\deluge:c:\DelugeData -v C:\DockerData\delugedownloads:c:\Downloads awesomecontainer/wdocker-deluge`
+  `docker run -d -p 8112:8112 --name Deluge -v C:\DockerData\deluge:c:\DelugeData -v C:\DockerData\delugedownloads:c:\Downloads awesomecontainer/wdocker-deluge`
