@@ -1,4 +1,7 @@
 [![Build Status](https://dev.azure.com/AwesomeContainer/AzurePipeline/_apis/build/status/deluge/AzurePipeline-wdocker-deluge-dev?branchName=dev)](https://dev.azure.com/AwesomeContainer/AzurePipeline/_build/latest?definitionId=4&branchName=dev)
+![Pulls from Docker Hub](https://img.shields.io/docker/pulls/awesomecontainer/wdocker-deluge.svg?style=flat)
+![Stars on Docker Hub](https://img.shields.io/docker/stars/awesomecontainer/wdocker-deluge.svg?style=flat)
+![Number of layers in container image](https://img.shields.io/microbadger/layers/awesomecontainer/wdocker-deluge.svg?style=flat)
 
 # wdocker-deluge
 Windows Docker container: Deluge.
