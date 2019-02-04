@@ -1,6 +1,6 @@
 version: '2.1'  
 services:  
-  caddy:
+  deluge:
     build: .
     image: awesomecontainer/wdocker-deluge:${DOCKERTAG:-latest}
     container_name: deluge
